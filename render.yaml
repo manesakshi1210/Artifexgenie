@@ -1,20 +1,13 @@
+# Exported from Render on 2025-05-27T11:52:29Z
 services:
-  - type: web
-    name: artifexgenie-server
-    env: node
-    plan: free
-    buildCommand: cd server && npm install
-    startCommand: cd server && npm start
-    rootDir: server
-    autoDeploy: true
-    branch: main
-
-  - type: web
-    name: artifexgenie-client
-    env: node
-    plan: free
-    buildCommand: cd client && npm install && npm run build
-    startCommand: cd client && npm start
-    rootDir: client
-    autoDeploy: true
-    branch: main
+- type: web
+  name: artifexgenie-server
+  runtime: node
+  repo: https://github.com/manesakshi1210/Artifexgenie
+  plan: free
+  region: oregon
+  buildCommand: cd server && npm install
+  startCommand: cd server && npm start
+  autoDeployTrigger: commit
+  rootDir: server
+version: "1"
