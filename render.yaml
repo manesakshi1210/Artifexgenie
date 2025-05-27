@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: artifexgenie-server
+    env: node
+    plan: free
+    buildCommand: cd server && npm install
+    startCommand: cd server && npm start
+    rootDir: server
+    autoDeploy: true
+    branch: main
+
+  - type: web
+    name: artifexgenie-client
+    env: node
+    plan: free
+    buildCommand: cd client && npm install && npm run build
+    startCommand: cd client && npm start
+    rootDir: client
+    autoDeploy: true
+    branch: main
