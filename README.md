@@ -16,52 +16,58 @@ ArtifexGenie is a full-stack AI-powered application that lets users generate stu
 
 ---
 
-⚛️ React App — Getting Started Guide
-Build modern UIs with ease using Create React App.
+# ⚛️ React App — Getting Started Guide
 
-This project is bootstrapped with Create React App — a zero-config toolkit for React applications. It provides a modern build setup with no configuration.
+> **Build modern UIs with ease using Create React App.**
 
-🚀 Available Scripts
+This project is bootstrapped with **[Create React App](https://github.com/facebook/create-react-app)** — a zero-config toolkit for React applications. It provides a modern build setup with no configuration.
+
+---
+
+## 🚀 Available Scripts
+
 In the project directory, you can run:
 
-▶ npm start
-Runs the app in development mode.
+### ▶ `npm start`
 
-Open http://localhost:3000 to view it in your browser.
+- Runs the app in development mode.  
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.  
+- The page will reload when you make edits.  
+- You may also see lint errors in the console.
 
-The page will reload when you make edits.
+---
 
-You may also see lint errors in the console.
+### 🧪 `npm test`
 
-🧪 npm test
-Launches the test runner in the interactive watch mode.
+- Launches the test runner in the interactive watch mode.  
+- Learn more: [Running Tests](https://facebook.github.io/create-react-app/docs/running-tests)
 
-Learn more: Running Tests
+---
 
-📦 npm run build
-Builds the app for production to the build/ folder.
+### 📦 `npm run build`
 
-Optimizes the build for best performance and minifies the code.
+- Builds the app for production to the `build/` folder.  
+- Optimizes the build for best performance and minifies the code.  
+- Filenames include content hashes.
 
-Filenames include content hashes.
+📄 See details: [Production Builds](https://facebook.github.io/create-react-app/docs/production-build)
 
-📄 See details: Production Builds
+---
 
-🛠️ npm run eject
-⚠️ This is a one-way operation. Once you eject, you can’t go back!
+### 🛠️ `npm run eject`
 
-Copies all configuration files and dependencies like Webpack, Babel, ESLint, etc., into your project.
+> ⚠️ This is a **one-way operation**. Once you eject, you can’t go back!
 
-Gives you full control over the setup.
+- Copies all configuration files and dependencies like Webpack, Babel, ESLint, etc., into your project.  
+- Gives you full control over the setup.  
+- Not recommended unless necessary.
 
-Not recommended unless necessary.
+📄 Learn more: [Ejecting](https://facebook.github.io/create-react-app/docs/available-scripts#npm-run-eject)
 
-📄 Learn more: Ejecting
 
-🗂️ Folder Structure (Basic)
-bash
-Copy
-Edit
+## 🗂️ Folder Structure (Basic)
+
+```bash
 my-app/
 ├── node_modules/
 ├── public/
@@ -75,6 +81,7 @@ my-app/
 ├── package.json
 ├── README.md
 └── ...
+
 🔗 Learn More
 📘 Create React App Documentation
 
@@ -97,3 +104,6 @@ This project is open source and available under the MIT License.
 💡 Slogan
 “Create React App — React Made Simple.”
 
+
+
+Let me know if you'd like to add project-specific sections like **features**, **API integration**, **frontend libraries**, or **deployment instructions**!
