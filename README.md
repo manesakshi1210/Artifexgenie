@@ -84,6 +84,9 @@ In the project directory, you can run:
 - 🚀 [Deployment](https://facebook.github.io/create-react-app/docs/deployment)  
 - ❌ [Build Fails to Minify](https://facebook.github.io/create-react-app/docs/t)
 
+---
+Let me know if you'd like to add project-specific sections like **features**, **API integration**, **frontend libraries**, or **deployment instructions**!
+
 ## 🗂️ Folder Structure (Basic)
 
 ```bash
@@ -102,4 +105,3 @@ my-app/
 └── ...
 ---
 
-Let me know if you'd like to add project-specific sections like **features**, **API integration**, **frontend libraries**, or **deployment instructions**!
