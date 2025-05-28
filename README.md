@@ -65,27 +65,24 @@ In the project directory, you can run:
 📄 Learn more: [Ejecting](https://facebook.github.io/create-react-app/docs/available-scripts#npm-run-eject)
 
 
-🔗 Learn More
-📘 Create React App Documentation
+📄 **Learn more:** [Ejecting](https://facebook.github.io/create-react-app/docs/available-scripts#npm-run-eject)
 
-📘 React Documentation
+---
 
-🛠️ Advanced Topics
-Code Splitting
+## 🔗 Learn More
 
-Analyzing Bundle Size
+- 📘 [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+- 📘 [React Documentation](https://reactjs.org/docs/getting-started.html)
 
-Making a Progressive Web App
+---
 
-Deployment
+## 🛠️ Advanced Topics
 
-Build Fails to Minify
-
-✨ License
-This project is open source and available under the MIT License.
-
-💡 Slogan
-“Create React App — React Made Simple.”
+- 🔀 [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)  
+- 📊 [Analyzing Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
+- 📱 [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
+- 🚀 [Deployment](https://facebook.github.io/create-react-app/docs/deployment)  
+- ❌ [Build Fails to Minify](https://facebook.github.io/create-react-app/docs/t)
 
 ## 🗂️ Folder Structure (Basic)
 
