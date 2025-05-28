@@ -90,18 +90,25 @@ Let me know if you'd like to add project-specific sections like **features**, **
 ## 🗂️ Folder Structure (Basic)
 
 ```bash
-my-app/
-├── node_modules/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.css
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
+ArtifexGenie/
 ├── README.md
-└── ...
----
+├── .gitignore
+│
+├── client/
+│   ├── public/
+│   └── src/
+│       ├── api/
+│       ├── components/
+│       ├── pages/
+│       ├── utils/
+│       ├── App.js
+│       └── index.js
+│
+├── server/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── index.js
+│   ├── error.js
+│   └── .env
 
