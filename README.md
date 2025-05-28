@@ -87,7 +87,7 @@ In the project directory, you can run:
 ---
 Let me know if you'd like to add project-specific sections like **features**, **API integration**, **frontend libraries**, or **deployment instructions**!
 
-## 🗂️ Folder Structure (Basic)
+## 🗂️ Folder Structure
 
 ```bash
 ArtifexGenie/
