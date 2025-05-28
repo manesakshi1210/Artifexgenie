@@ -65,23 +65,6 @@ In the project directory, you can run:
 📄 Learn more: [Ejecting](https://facebook.github.io/create-react-app/docs/available-scripts#npm-run-eject)
 
 
-## 🗂️ Folder Structure (Basic)
-
-```bash
-my-app/
-├── node_modules/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.css
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-
 🔗 Learn More
 📘 Create React App Documentation
 
@@ -104,6 +87,22 @@ This project is open source and available under the MIT License.
 💡 Slogan
 “Create React App — React Made Simple.”
 
+## 🗂️ Folder Structure (Basic)
 
+```bash
+my-app/
+├── node_modules/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.css
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
+---
 
 Let me know if you'd like to add project-specific sections like **features**, **API integration**, **frontend libraries**, or **deployment instructions**!
