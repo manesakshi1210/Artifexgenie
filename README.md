@@ -14,6 +14,8 @@ ArtifexGenie is a full-stack AI-powered application that lets users generate stu
 - 📥 Download images to your device
 - 🔎 Search through existing
 
+---
+
 🎨 2. Frontend Setup (React)
 bash :
 cd client
@@ -23,6 +25,8 @@ npm start
 bash:
 npm install @emotion/react @emotion/styled @mui/material @mui/icons-material @mui/lab \
 axios file-saver react-router-dom styled-components react-lazy-load-image-component
+
+---
 
 📁 Folder Structure (client/src)
 client/src/
