@@ -1,4 +1,4 @@
-# 🎨 ArtifexGenie — AI Image Generator
+# 🛣 ArtifexGenie — AI Image Generator
 
 **"Artifex"** (Latin for artist) + **"Genie"** (a magical creative force)  
 > **Unleash magical visuals from your imagination!**
